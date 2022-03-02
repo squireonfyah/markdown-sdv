@@ -15,6 +15,10 @@
 - Item 1
 - Item 2
 - Item 3
-  
+
+[title](https://www.linkedin.com/in/max-squire-10770a232/)
+
+`console.log"hello World"`
+
 
 ![GitHub Logo](/images/logo.png)
