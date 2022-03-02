@@ -20,5 +20,8 @@
 
 `console.log"hello World"`
 
+-[x] Write Read me repo
+-[] Update Repository
+-[] Fix bug
 
 ![GitHub Logo](/images/logo.png)
