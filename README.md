@@ -17,9 +17,9 @@
 
 `console.log"hello World"`
 
--[x] Write Read me repo
--[] Update Repository
--[] Fix bug
+- [x] Write Read me repo
+- [] Update Repository
+- [] Fix bug
 
 That is funny! :joy:
 
