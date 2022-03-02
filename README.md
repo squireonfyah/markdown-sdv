@@ -9,7 +9,7 @@
 *interests*
 
 1. Football
-2. Coding Software Development
+2. Software Development
 3. Gaming
 
 - Item 1
