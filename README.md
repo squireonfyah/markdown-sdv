@@ -6,22 +6,24 @@
 ### Welcome to SDV
 
 **Max Squire**
-*max squire*
+*interests*
 
-1. First Item
-2. Second Item
-3. Third Item
+1. Football
+2. Coding Software Development
+3. Gaming
 
 - Item 1
 - Item 2
 - Item 3
 
-[title](https://www.linkedin.com/in/max-squire-10770a232/)
+[My Linked In Acc](https://www.linkedin.com/in/max-squire-10770a232/)
 
 `console.log"hello World"`
 
 -[x] Write Read me repo
 -[] Update Repository
 -[] Fix bug
+
+That is funny! :joy:
 
 ![GitHub Logo](/images/logo.png)
