@@ -27,4 +27,5 @@
 That is funny! :joy:
 
 ![GitHub Logo](/images/logo.png)
-*The whole world is watching now. I wish you could see what i can see. Sometimes you have to be up really high to realise how small you are. Im coming home now.” - Felix Baumgartner*
+
+*The whole world is watching now. I wish you could see what i can see. Sometimes, you have to be up really high to realise how small you are. Im coming home now.” - Felix Baumgartner*
